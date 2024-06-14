@@ -1,1 +1,1 @@
-select * from categories limit 1;
+select * from categories limit 10;
