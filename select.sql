@@ -1,1 +1,1 @@
-delete table categories ;
+DROP TABLE categories ;
